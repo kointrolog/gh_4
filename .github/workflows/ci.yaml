@@ -7,7 +7,7 @@ name: 'Link Checker: All English'
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: read
